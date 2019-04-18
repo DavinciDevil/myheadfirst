@@ -14,7 +14,7 @@ package combination;
  * <b>功能描述:</b>
  * <p/>
  * <pre>
- *  //change
+ *  //在仓库修改了内容
  * </pre>
  *
  * @author lincc(l85520949@163.com)
